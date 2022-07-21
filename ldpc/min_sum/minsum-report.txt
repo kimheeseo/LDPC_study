@@ -1,0 +1,1 @@
+numblock= 1  errorblock= 1  sum_errorbit= 1 fer= 1.000000 ber= 0.083333
